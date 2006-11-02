@@ -7,6 +7,6 @@ Standards-Version: 3.7.2
 
 Package: kanotix-setpassword
 Architecture: all
-Depends: ${shlibs:Depends}, samba-common
+Depends: ${shlibs:Depends}, samba-common, kanotix-su
 Description: sets password for live user
  usable for shadow and smbpasswd
