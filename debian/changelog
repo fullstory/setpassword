@@ -1,8 +1,8 @@
-kanotix-setpassword (0.1.9) UNRELEASED; urgency=low
+kanotix-setpassword (0.1.9) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix bashism.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  2 Nov 2006 21:01:23 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  9 Nov 2006 21:14:44 +0100
 
 kanotix-setpassword (0.1.8) unstable; urgency=low
 
