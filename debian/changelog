@@ -1,8 +1,10 @@
-kanotix-setpassword (0.1.10) UNRELEASED; urgency=low
+sidux-setpassword (0.1.10) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  9 Nov 2006 21:16:06 +0100
+  * Initial version for sidux
+
+ -- Joaquim Boura <x-un-i@sidux.com>  Sat,  2 Dec 2006 18:14:30 +0100
 
 kanotix-setpassword (0.1.9) unstable; urgency=low
 
