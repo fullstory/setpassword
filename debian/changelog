@@ -1,6 +1,4 @@
-sidux-setpassword (0.1.11) UNRELEASED; urgency=low
-
-  * NOT RELEASED YET
+sidux-setpassword (0.1.11) unstable; urgency=low
 
   * fixed mispelling
 
