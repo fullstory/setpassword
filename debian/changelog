@@ -1,8 +1,9 @@
-sidux-setpassword (0.1.12) UNRELEASED; urgency=low
+sidux-setpassword (0.1.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix defaults for sidux.
+  * fix bashism.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 14:07:45 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  2 Jan 2007 15:29:27 +0100
 
 sidux-setpassword (0.1.11) unstable; urgency=low
 
