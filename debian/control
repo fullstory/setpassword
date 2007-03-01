@@ -8,6 +8,5 @@ Standards-Version: 3.7.2
 Package: sidux-setpassword
 Architecture: all
 Depends: ${shlibs:Depends}, samba-common, su-me
-Conflicts: kanotix-setpassword
 Description: sets password for live user
  usable for shadow and smbpasswd
