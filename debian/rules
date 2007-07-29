@@ -1,3 +1,14 @@
 #!/usr/bin/make -f
 
 include /usr/share/cdbs/1/rules/debhelper.mk
+
+dist::
+	sed -i "s|^\(\$$(basename \$$0)\)[[:space:]][0-9\\.]*$$|\1 $$(dpkg-parsechangelog | awk '/^Version\:/{print $$2}')|" \
+		$(CURDIR)/sidux-setpassword
+
+install/sidux-setpassword::
+	mkdir -p debian/sidux-setpassword/usr/sbin
+	sed "s|^\(\$$(basename \$$0)\)[[:space:]][0-9\\.]*$$|\1 $$(dpkg-parsechangelog | awk '/^Version\:/{print $$2}')|" \
+		$(CURDIR)/sidux-setpassword \
+			> debian/sidux-setpassword/usr/sbin/sidux-setpassword
+

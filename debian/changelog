@@ -1,8 +1,9 @@
-sidux-setpassword (0.2.1) UNRELEASED; urgency=low
+sidux-setpassword (0.2.1) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * generate version number through debian/rules.
+  * add dist target.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Jul 2007 21:05:57 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Jul 2007 21:38:23 +0200
 
 sidux-setpassword (0.2.0) unstable; urgency=low
 
