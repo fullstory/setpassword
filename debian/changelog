@@ -1,11 +1,10 @@
-sidux-setpassword (0.2.3) UNRELEASED; urgency=low
+sidux-setpassword (0.2.3) unstable; urgency=low
 
-  * NOT RELEASED YET
   * fix stray comment.
   * FLL_DISTRO_NAME isn't required anymore.
   * bailout cosmetics.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Jul 2007 22:26:03 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Jul 2007 23:26:28 +0200
 
 sidux-setpassword (0.2.2) unstable; urgency=low
 
