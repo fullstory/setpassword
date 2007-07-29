@@ -1,1 +1,2 @@
-sidux-setpassword usr/sbin/
+*.desktop		usr/share/applications/sidux/
+sidux-setpassword	usr/sbin/

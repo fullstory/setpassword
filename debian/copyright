@@ -1,8 +1,35 @@
-This package was debianized by Fabian Franz <knx-sambastart@fabian-franz.de> on
-Fri, 25 Apr 2003 22:58:31 +0200.
+This package was debianized by Stefan Lippers-Hollmann <s.l-h@gmx.de> on
+Tue,  1 Feb 2005 20:45:37 +0100.
 
-It was downloaded from debian-knoppix@linuxtag.org-Mailinglist
+It was downloaded from http://sidux.com
 
-Upstream Author: Chris Liechti <cliechti@gmx.net>
+Upstream Authors: 
+    Stefan Lippers-Hollmann <s.l-h@gmx.de>
 
-Copyright: GPL, see /usr/share/common-licenses
+    loosely based on the idea of Chris Liechti <cliechti@gmx.net> and 
+    Klaus Knopper <knoppix@knopper.net> as expressed in knoppix-setpassword.
+
+Copyright: 
+    Copyright (C) 2007 Stefan Lippers-Hollmann <s.l-h@gmx.de>
+
+License:
+
+    This package is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; version 2 of the License only.
+ 
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+ 
+    You should have received a copy of the GNU General Public License
+    along with this package; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU General
+Public License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
+
+The Debian packaging is (C) 2007, Stefan Lippers-Hollmann <s.l-h@gmx.de> and
+is licensed under the GPL2, see above.
+

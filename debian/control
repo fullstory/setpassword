@@ -7,6 +7,7 @@ Standards-Version: 3.7.2
 
 Package: sidux-setpassword
 Architecture: all
-Depends: ${shlibs:Depends}, samba-common, su-me
+Depends: ${shlibs:Depends}, su-me
+Suggests: samba-common
 Description: sets password for live user
- usable for shadow and smbpasswd
+ usable for system passwords (passwd) and samba passwords (smbpasswd)
