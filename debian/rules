@@ -5,6 +5,7 @@ include /usr/share/cdbs/1/rules/debhelper.mk
 dist::
 	sed -i "s|^\(\$$(basename \$$0)\)[[:space:]][0-9\\.]*$$|\1 $$(dpkg-parsechangelog | awk '/^Version\:/{print $$2}')|" \
 		$(CURDIR)/sidux-setpassword
+	help2man --name=sidux-setpassword --section=8 --source=sidux --output=$(CURDIR)/sidux-setpassword.8 --no-info $(CURDIR)/sidux-setpassword
 
 install/sidux-setpassword::
 	mkdir -p debian/sidux-setpassword/usr/sbin
