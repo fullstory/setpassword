@@ -1,8 +1,9 @@
 sidux-setpassword (0.2.3) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * fix stray comment.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Jul 2007 21:46:54 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Jul 2007 22:04:42 +0200
 
 sidux-setpassword (0.2.2) unstable; urgency=low
 
