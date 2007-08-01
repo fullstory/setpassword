@@ -1,3 +1,9 @@
+sidux-setpassword (0.2.5) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 01 Aug 2007 13:48:59 +0200
+
 sidux-setpassword (0.2.4) unstable; urgency=low
 
   * add sidux-setpassword icons and icon source
