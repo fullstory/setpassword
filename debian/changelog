@@ -5,8 +5,9 @@ sidux-setpassword (0.2.4) UNRELEASED; urgency=low
 
   [ Bernard Gray ]
   * add sidux-setpassword icons and icon source
+  * add install line for icons 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Tue, 31 Jul 2007 23:32:02 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 01 Aug 2007 16:13:06 +1000
 
 sidux-setpassword (0.2.3) unstable; urgency=low
 
