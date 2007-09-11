@@ -1,8 +1,9 @@
 sidux-setpassword (0.2.5) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * add VCS control headers.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 01 Aug 2007 13:48:59 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 11 Sep 2007 20:25:13 +0200
 
 sidux-setpassword (0.2.4) unstable; urgency=low
 
