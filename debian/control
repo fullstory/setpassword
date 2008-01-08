@@ -9,7 +9,8 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-setpassword/trunk/
 
 Package: sidux-setpassword
 Architecture: all
-Depends: ${shlibs:Depends}, su-me
+Depends: ${shlibs:Depends}
+Recommends: menu
 Suggests: samba-common
 Description: sets password for live user
  usable for system passwords (passwd) and samba passwords (smbpasswd)
