@@ -5,11 +5,16 @@ include /usr/share/cdbs/1/rules/debhelper.mk
 dist::
 	sed -i "s|^\(\$$(basename \$$0)\)[[:space:]][0-9\\.]*$$|\1 $$(dpkg-parsechangelog | awk '/^Version\:/{print $$2}')|" \
 		$(CURDIR)/sidux-setpassword
-	help2man --name=sidux-setpassword --section=8 --source=sidux --output=$(CURDIR)/sidux-setpassword.8 --no-info $(CURDIR)/sidux-setpassword
 
 install/sidux-setpassword::
-	mkdir -p debian/sidux-setpassword/usr/sbin
-	sed "s|^\(\$$(basename \$$0)\)[[:space:]][0-9\\.]*$$|\1 $$(dpkg-parsechangelog | awk '/^Version\:/{print $$2}')|" \
+	sed -e "s|^\(\$$(basename \$$0)\)[[:space:]][0-9\\.]*$$|\1 $$(dpkg-parsechangelog | awk '/^Version\:/{print $$2}')|" \
 		$(CURDIR)/sidux-setpassword \
-			> debian/sidux-setpassword/usr/sbin/sidux-setpassword
+			> $(CURDIR)/debian/sidux-setpassword/usr/sbin/sidux-setpassword
+	help2man --name=sidux-setpassword --section=8 --source=sidux --output=$(CURDIR)/debian/sidux-setpassword/usr/share/man/man8/sidux-setpassword.8 --no-info \
+		$(CURDIR)/debian/sidux-setpassword/usr/sbin/sidux-setpassword
+	convert icons/hicolor/32x32/apps/sidux-setpassword.png \
+		debian/sidux-setpassword/usr/share/pixmaps/sidux-setpassword.xpm
+	convert icons/hicolor/16x16/apps/sidux-setpassword.png \
+		debian/sidux-setpassword/usr/share/pixmaps/sidux-setpassword.xpm
+
 
