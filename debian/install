@@ -1,2 +1,3 @@
+sidux-setpassword	usr/sbin/
 *.desktop		usr/share/applications/sidux/
-hicolor			usr/share/icons/
+icons			usr/share/
