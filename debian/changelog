@@ -1,9 +1,5 @@
-setpassword (0.3.4) UNRELEASED; urgency=low
+setpassword (0.3.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
   * fixed typo. 
     pt text in desktop file
 
