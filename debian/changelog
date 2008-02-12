@@ -1,8 +1,13 @@
 setpassword (0.3.5) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 07 Feb 2008 22:11:25 +0100
+  [ Bernard Gray ]
+  * make setpasswd icon display correctly in kde3/4
+  * change key colour/orientation to display better at small sizes
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 12 Feb 2008 14:28:41 +1100
 
 setpassword (0.3.4) unstable; urgency=low
 
