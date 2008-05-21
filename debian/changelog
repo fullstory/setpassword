@@ -1,3 +1,9 @@
+setpassword (0.3.8) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 May 2008 20:07:49 +0200
+
 setpassword (0.3.7) unstable; urgency=low
 
   * switch to the new dh implementation of debhelper 7.
