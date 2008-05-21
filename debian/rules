@@ -1,8 +1,10 @@
 #!/usr/bin/make -f
 
-include /usr/share/cdbs/1/rules/debhelper.mk
+%:
+	dh $@
 
-install/setpassword::
+build:
+	dh build --until auto_build
 	help2man	--name=setpassword \
 			--section=8 \
 			--source=sidux \
@@ -10,11 +12,14 @@ install/setpassword::
 			--version-option="--dpkg-parsechangelog" \
 			--output=$(CURDIR)/setpassword.8 \
 				$(CURDIR)/setpassword
+	dh build --remaining
 
-clean::
+clean:
+	dh clean --before clean
 	rm -f $(CURDIR)/setpassword.8
+	dh clean --remaining
 
-create-icons::
+create-icons:
 	# requires inkscape and imagemagick to be installed
 	@if [ ! -x /usr/bin/convert ]; then \
 		echo "ERROR: imagemagick not installed!" ; \

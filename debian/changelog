@@ -1,8 +1,10 @@
-setpassword (0.3.7) UNRELEASED; urgency=low
+setpassword (0.3.7) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to the new dh implementation of debhelper 7.
+  * drop transitional dummy package.
+  * fix remaining instances of old packaginge naming.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 20 Feb 2008 23:55:53 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 May 2008 20:06:06 +0200
 
 setpassword (0.3.6) unstable; urgency=low
 

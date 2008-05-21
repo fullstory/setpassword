@@ -6,7 +6,7 @@ It was downloaded from http://developer.berlios.de/projects/fullstory/
 Files: *
 Copyright: © 2005-2008 Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: GPL-2
-  The sidux-setpassword program is licensed under the GNU General Public License,
+  The setpassword program is licensed under the GNU General Public License,
   version 2.
   Loosely based on the idea of Chris Liechti <cliechti@gmx.net> and
   Klaus Knopper <knoppix@knopper.net> as expressed in knoppix-setpassword.
