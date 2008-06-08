@@ -1,8 +1,8 @@
-setpassword (0.3.8) UNRELEASED; urgency=low
+setpassword (0.3.8) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.8.0, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 May 2008 20:07:49 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Jun 2008 16:39:12 +0200
 
 setpassword (0.3.7) unstable; urgency=low
 
