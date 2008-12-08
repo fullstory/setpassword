@@ -1,9 +1,8 @@
-setpassword (0.3.10) UNRELEASED; urgency=low
+setpassword (0.3.10) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 02:52:57 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:13:00 +0100
 
 setpassword (0.3.9) unstable; urgency=low
 
