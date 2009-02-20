@@ -1,8 +1,8 @@
-setpassword (0.3.11) UNRELEASED; urgency=low
+setpassword (0.3.11) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix desktop-entry-contains-encoding-key.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:13:59 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:10:55 +0100
 
 setpassword (0.3.10) unstable; urgency=low
 
