@@ -6,9 +6,10 @@ setpassword (0.3.12) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * update art for 2009-02
   * convert all bitmaps to new svg art
-  * update copyright for new art -- do not release
+  * update copyright for new art 
+  * ready for release
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 02 Jul 2009 20:49:48 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 02 Jul 2009 21:48:19 +1000
 
 setpassword (0.3.11) unstable; urgency=low
 
