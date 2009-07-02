@@ -3,15 +3,15 @@ Section: misc
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7),
-               help2man
-Standards-Version: 3.8.0
+ help2man
+Standards-Version: 3.8.2
 Vcs-Svn: svn://svn.berlios.de/fullstory/setpassword/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/setpassword/trunk/
 
 Package: setpassword
 Architecture: all
 Depends: ${misc:Depends},
-         ${shlibs:Depends}
+ ${shlibs:Depends}
 Recommends: menu
 Suggests: samba-common
 Description: sets password for live user
