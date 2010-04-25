@@ -3,8 +3,7 @@
 %:
 	dh $@
 
-build:
-	dh build --until auto_build
+override_dh_auto_build:
 	help2man	--name=setpassword \
 			--section=8 \
 			--source=sidux \
@@ -12,12 +11,11 @@ build:
 			--version-option="--dpkg-parsechangelog" \
 			--output=$(CURDIR)/setpassword.8 \
 				$(CURDIR)/setpassword
-	dh build --remaining
+	dh_auto_build
 
-clean:
-	dh clean --before clean
+override_dh_auto_clean:
 	rm -f $(CURDIR)/setpassword.8
-	dh clean --remaining
+	dh_auto_clean
 
 create-icons:
 	# requires inkscape and imagemagick to be installed
