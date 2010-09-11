@@ -34,7 +34,7 @@ setpassword (0.3.12) unstable; urgency=low
   [ Bernard Gray ]
   * update art for 2009-02
   * convert all bitmaps to new svg art
-  * update copyright for new art 
+  * update copyright for new art
 
   [ Stefan Lippers-Hollmann ]
   * generate binary artwork.
@@ -94,7 +94,7 @@ setpassword (0.3.5) unstable; urgency=low
 
 setpassword (0.3.4) unstable; urgency=low
 
-  * fixed typo. 
+  * fixed typo.
     pt text in desktop file
 
  -- Joaquim Boura <x-un-i@sidux.com>  Tue, 05 Feb 2008 00:36:32 +0100
@@ -163,7 +163,7 @@ sidux-setpassword (0.2.5) unstable; urgency=low
 sidux-setpassword (0.2.4) unstable; urgency=low
 
   * add sidux-setpassword icons and icon source
-  * add install line for icons 
+  * add install line for icons
 
  -- Bernard Gray <bernard.gray@gmail.com>  Wed, 01 Aug 2007 16:13:06 +1000
 
