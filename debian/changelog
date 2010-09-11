@@ -1,3 +1,9 @@
+setpassword (0.3.16) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 02:43:22 +0200
+
 setpassword (0.3.15) unstable; urgency=low
 
   * fix suggests to samba-common-bin | samba4-common-bin.
