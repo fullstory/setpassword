@@ -2,7 +2,7 @@ Source: setpassword
 Section: misc
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Build-Depends: debhelper (>= 7),
+Build-Depends: debhelper (>= 7.9.3),
  help2man
 Standards-Version: 3.9.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/setpassword/trunk
