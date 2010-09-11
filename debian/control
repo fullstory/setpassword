@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7),
  help2man
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/setpassword/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/setpassword/trunk/
 
@@ -13,6 +13,9 @@ Architecture: all
 Depends: ${misc:Depends},
  ${shlibs:Depends}
 Recommends: menu
-Suggests: samba-common
+Suggests: samba-common-bin | samba4-common-bin
 Description: sets password for live user
  usable for system passwords (passwd) and samba passwords (smbpasswd)
+ .
+ This is a FULLSTORY live-only package and should not be installed to an
+ ordinary system.
