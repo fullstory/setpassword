@@ -1,8 +1,8 @@
-setpassword (0.3.18) UNRELEASED; urgency=low
+setpassword (0.3.18) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix x-un-i's mail address.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 26 Aug 2010 01:59:27 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 06 Oct 2010 15:10:35 +0200
 
 setpassword (0.3.17) unstable; urgency=low
 
@@ -109,7 +109,7 @@ setpassword (0.3.4) unstable; urgency=low
   * fixed typo.
     pt text in desktop file
 
- -- Joaquim Boura <x-un-i@sidux.com>  Tue, 05 Feb 2008 00:36:32 +0100
+ -- Joaquim Boura <x-un-i@berlios.de>  Tue, 05 Feb 2008 00:36:32 +0100
 
 setpassword (0.3.3) unstable; urgency=low
 
@@ -153,7 +153,7 @@ sidux-setpassword (0.2.7) unstable; urgency=low
 
   * Translation thanks to RoEn
 
- -- Joaquim Boura <x-un-i@sidux.com>  Tue, 18 Dec 2007 13:25:01 +0100
+ -- Joaquim Boura <x-un-i@berlios.de>  Tue, 18 Dec 2007 13:25:01 +0100
 
 sidux-setpassword (0.2.6) unstable; urgency=low
 
@@ -229,7 +229,7 @@ sidux-setpassword (0.1.11) unstable; urgency=low
 
   * fixed mispelling
 
- -- Joaquim Boura <x-un-i@sidux.com>  Mon,  4 Dec 2006 15:03:15 +0100
+ -- Joaquim Boura <x-un-i@berlios.de>  Mon,  4 Dec 2006 15:03:15 +0100
 
 sidux-setpassword (0.1.10) unstable; urgency=low
 
