@@ -1,3 +1,9 @@
+setpassword (0.3.19) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 06 Oct 2010 15:10:59 +0200
+
 setpassword (0.3.18) unstable; urgency=low
 
   * fix x-un-i's mail address.
