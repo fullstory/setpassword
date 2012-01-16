@@ -1,8 +1,14 @@
-setpassword (0.3.20) UNRELEASED; urgency=low
+setpassword (0.3.21) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * update icons.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 29 Apr 2011 05:01:20 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 16 Jan 2012 03:50:37 +0100
+
+setpassword (0.3.20) unstable; urgency=low
+
+  * switch to compat level 9.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 16 Jan 2012 03:28:42 +0100
 
 setpassword (0.3.19) unstable; urgency=low
 
