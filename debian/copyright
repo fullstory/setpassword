@@ -4,7 +4,7 @@ Tue,  1 Feb 2005 20:45:37 +0100.
 It was downloaded from http://developer.berlios.de/projects/fullstory/
 
 Files: *
-Copyright: © 2005-2012 Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Copyright: © 2005-2013 Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: GPL-2
   The setpassword program is licensed under the GNU General Public License,
   version 2.
@@ -12,7 +12,7 @@ License: GPL-2
   Klaus Knopper <knoppix@knopper.net> as expressed in knoppix-setpassword.
 
 Files: debian/*
-Copyright: © 2005-2012 Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Copyright: © 2005-2013 Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: GPL-2
   The Debian packaging information is licensed under the GNU General
   Public License, version 2.

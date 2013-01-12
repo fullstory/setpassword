@@ -1,8 +1,9 @@
-setpassword (0.3.23) UNRELEASED; urgency=low
+setpassword (0.3.23) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.9.4, no changes necessary.
+  * update FSF postal address to be URLs.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 23 Feb 2012 16:54:10 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 12 Jan 2013 03:33:23 +0100
 
 setpassword (0.3.22) unstable; urgency=low
 
