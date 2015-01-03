@@ -1,9 +1,9 @@
-setpassword (0.3.25) UNRELEASED; urgency=medium
+setpassword (0.3.25) unstable; urgency=medium
 
-  * NOT RELEASED YET
   * bump standards version to 3.9.6, no changes necessary.
+  * convert to machine readable copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 14 Apr 2014 00:10:04 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 04 Jan 2015 00:22:07 +0100
 
 setpassword (0.3.24) unstable; urgency=low
 
