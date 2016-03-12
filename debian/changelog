@@ -1,3 +1,9 @@
+setpassword (0.3.27) unstable; urgency=medium
+
+  * fix F.U.L.L.S.T.O.R.Y. homepage URL.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 12 Mar 2016 02:50:28 +0100
+
 setpassword (0.3.26) unstable; urgency=medium
 
   * use parallel building.
