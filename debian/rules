@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 %:
-	dh ${@} --parallel
+	dh ${@}
 
 override_dh_auto_build:
 	help2man	--name=setpassword \
@@ -29,6 +29,7 @@ create-icons:
 		mkdir -p "icons/hicolor/$${i}x$${i}/apps" ; \
 		inkscape --export-width=$${i} \
 			 --export-height=$${i} \
-			 --export-png="$(CURDIR)/icons/hicolor/$${i}x$${i}/apps/setpassword.png" \
+			 --export-type="png" \
+			 --export-filename="$(CURDIR)/icons/hicolor/$${i}x$${i}/apps/setpassword.png" \
 				$(CURDIR)/icons/setpassword.svg ; \
 	done
