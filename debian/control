@@ -2,6 +2,8 @@ Source: setpassword
 Section: misc
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Uploaders: Kel Modderman <kelvmod@gmail.com>
+Rules-Requires-Root: no
 Build-Depends: debhelper-compat (= 13),
  help2man
 Standards-Version: 4.7.0
