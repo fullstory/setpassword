@@ -1,6 +1,10 @@
 setpassword (0.3.28) UNRELEASED; urgency=medium
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+  [ Kel Modderman ]
+  * Use pkexec to gain root.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 12 Mar 2016 02:50:39 +0100
 
