@@ -1,7 +1,7 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: setpassword
 Upstream-Contact: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Source: git://github.com/fullstory/setpassword.git
+Source: https://github.com/fullstory/setpassword.git
 
 Files: *
 Copyright: 2005-2014, Stefan Lippers-Hollmann <s.l-h@gmx.de>
