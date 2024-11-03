@@ -7,8 +7,11 @@ setpassword (0.3.28) unstable; urgency=medium
   * refresh icons.
   * bump compat level to 13.
   * bump standards version to 4.7.0, no changes necessary.
+  * make lintian a little happier:
+    - source: vcs-field-uses-insecure-uri Git
+    - source: cute-field Vcs-git vs Vcs-Git
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 03 Nov 2024 20:28:56 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 03 Nov 2024 20:30:00 +0100
 
 setpassword (0.3.27) unstable; urgency=medium
 
