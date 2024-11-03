@@ -6,8 +6,9 @@ setpassword (0.3.28) unstable; urgency=medium
   [ Stefan Lippers-Hollmann ]
   * refresh icons.
   * bump compat level to 13.
+  * bump standards version to 4.7.0, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 03 Nov 2024 20:28:31 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 03 Nov 2024 20:28:56 +0100
 
 setpassword (0.3.27) unstable; urgency=medium
 
