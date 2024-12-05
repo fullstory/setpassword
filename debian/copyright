@@ -4,14 +4,14 @@ Upstream-Contact: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Source: https://github.com/fullstory/setpassword.git
 
 Files: *
-Copyright: 2005-2014, Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Copyright: 2005-2024, Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: GPL-2.0
 Comment:
  Loosely based on the idea of Chris Liechti <cliechti@gmx.net> and
  Klaus Knopper <knoppix@knopper.net> as expressed in knoppix-setpassword.
 
 Files: debian/*
-Copyright: 2005-2015, Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Copyright: 2005-2024, Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: GPL-2.0
 
 Files: icons/*
