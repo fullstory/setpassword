@@ -1,12 +1,9 @@
-setpassword (0.3.30) UNRELEASED; urgency=medium
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+setpassword (0.3.30) unstable; urgency=medium
 
   [ Kel Modderman ]
   * setpassword.desktop: set Name=Set Password
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Dec 2024 14:39:48 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 09 Dec 2024 10:53:50 +0100
 
 setpassword (0.3.29) unstable; urgency=medium
 
