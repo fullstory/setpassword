@@ -1,7 +1,4 @@
-setpassword (0.3.32) UNRELEASED; urgency=medium
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+setpassword (0.3.32) unstable; urgency=medium
 
   [ Kel Modderman ]
   * keep command-line options when re-running as root, so -u USER is no
